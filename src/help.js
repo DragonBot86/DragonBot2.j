@@ -3,6 +3,8 @@ const help = (prefix) => {
 
 ⌜ DragonBot By 𝕯𝖗𝖆𝖌𝖔𝖓 ⌟  
 
+Únanse xd https://chat.whatsapp.com/HKBWbiWStAPG1zph11xeVZ
+
 ◉ INFORMACION
    ○ Comando: ⌜ ! ⌟
    ○ Creador: 𝕯𝖗𝖆𝖌𝖔𝖓
