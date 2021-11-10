@@ -12,7 +12,7 @@ const welmenu = (prefix, pushname) => {
 
 _Para activar este comando el bot necesita tener admin_
 
-_*by Dragon*_
+_*by 𝕯𝖗𝖆𝖌𝖔𝖓*_
 `
 
 }
