@@ -853,8 +853,8 @@ break
 					client.sendMessage(nomor+'@s.whatsapp.net', pesan, text)
 					break
 				case 'apagar':
-                                        if (!isOwner) return reply('tu quien eres para decirme que hacer!?🤔')
-                                        reply('Me apagare en 3 Segundos....')
+                                        if (!isOwner) return reply('tu quien eres para decirme que hacer!?, No eres Dragón')
+                                        reply('Me apagare en 3 Segundos amo')
                                         setTimeout( () => {
                                         samu330.close() }, 3000)
                                         break
