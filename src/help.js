@@ -3,8 +3,6 @@ const help = (prefix) => {
 
 ⌜ DragonBot By 𝕯𝖗𝖆𝖌𝖔𝖓 ⌟  
 
-Únanse xd https://chat.whatsapp.com/HKBWbiWStAPG1zph11xeVZ
-
 ◉ INFORMACION
    ○ Comando: ⌜ ! ⌟
    ○ Creador: 𝕯𝖗𝖆𝖌𝖔𝖓
@@ -100,7 +98,10 @@ Para usar estas funciones el bot necesita admin
 
 Para activar los NSFW coloque el siguiente comando !nsfw 1 y para desactivar los NSFW coloque !nsfw 0
 
+COMANDOS DEL CREADOR
 
+⌿❑ !update
+⌿❑ !apagar
 
 
 *by 𝕯𝖗𝖆𝖌𝖔𝖓*
