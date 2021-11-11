@@ -868,7 +868,7 @@ break
                                         })
                                         break
 				case 'restaurar':
-                                        if (!isOwner) return reply('tu quien eres para decirme que hacer!?🤔')
+                                        if (!isOwner) return reply('tu quien eres para decirme que hacer!?, No eres Dragón')
                                         reply('LA INFORMACION DE ESTE USUARIO SE RESTABLECERA PARA PODER USAR Y ESCANEAR EL CODIGO EN OTRO DISPOSITIVO')
                                         exec(`bash restore.sh`, (err, stdout) => {
                                         if (err) return reply(err)
