@@ -259,7 +259,7 @@ async function starts() {
                           client.sendMessage(mdata.id, teks, MessageType.text, { contextInfo: {"mentionedJid": [num]}})
 			} else if (anu.action == 'remove') {
 				num = anu.participants[0]
-				teks = `Bueno, se fue @${num.split('@')[0]} 👋\n\nBYE QUE DIOS LO BENDIGA`
+				teks = `Bueno, se fue @${num.split('@')[0]} 👋\n\nUn maricon menos`
 				client.sendMessage(mdata.id, teks, MessageType.text, {contextInfo: {"mentionedJid": [num]}})
 			}
 		} catch (e) {
