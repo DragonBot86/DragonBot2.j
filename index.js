@@ -255,7 +255,7 @@ async function starts() {
 			console.log(anu)
 			if (anu.action == 'add') {
 				num = anu.participants[0]
-				teks = `!HOLA ZORRA! @${num.split('@')[0]} ¿CÓMO ESTÁS?😃\n\n『Bienvenid@ a este grupo llamado *${mdata.subject}*』\n\nPresentarse con Foto, Nombre, Edad Y Pais🎩\n\n_Evita hacer pendejadas y cumple las reglas, ok?🧐_\n\n*NO VENGAS HACER BARDO QUE DRAGON TE VIOLA🎩*`
+				teks = `¡HOLA ZORRA! @${num.split('@')[0]} ¿CÓMO ESTÁS?😃\n\n『Bienvenid@ al mejor grupo, llamado *${mdata.subject}*』\n\nPresentarse con Foto, Nombre, Edad Y Pais🎩\n\n_Evita hacer pendejadas y cumple las reglas, ok?🧐_\n\n*NO VENGAS HACER BARDO QUE DRAGON TE VIOLA🎩*`
                           client.sendMessage(mdata.id, teks, MessageType.text, { contextInfo: {"mentionedJid": [num]}})
 			} else if (anu.action == 'remove') {
 				num = anu.participants[0]
@@ -853,8 +853,8 @@ break
 					client.sendMessage(nomor+'@s.whatsapp.net', pesan, text)
 					break
 				case 'apagar':
-                                        if (!isOwner) return reply('tu quien eres para decirme que hacer!?, No eres Dragón')
-                                        reply('Me apagare en 3 Segundos amo')
+                                        if (!isOwner) return reply('tu quien eres para decirme que hacer!?, No eres Dragóon')
+                                        reply('Me apagare en 3 Segundos Jefe')
                                         setTimeout( () => {
                                         samu330.close() }, 3000)
                                         break
