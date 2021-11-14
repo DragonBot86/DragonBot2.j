@@ -255,7 +255,7 @@ async function starts() {
 			console.log(anu)
 			if (anu.action == 'add') {
 				num = anu.participants[0]
-				teks = `¡HOLA MI ZORRA! @${num.split('@')[0]} ¿CÓMO ESTÁS?😃\n\n『Bienvenid@ al mejor grupooo llamado *${mdata.subject}*』\n\n⌿𐄬Presentarse con Foto, Nombre, Edad Y Pais\n\n_⌿𐄬Evita hacer pendejadas y cumple las reglas, ok?_\n\n⌿𐄬𝗡𝗢 𝗩𝗘𝗡𝗚𝗔𝗦 𝗛𝗔𝗖𝗘𝗥 𝗕𝗔𝗥𝗗𝗢 𝗤𝗨𝗘 𝗗𝗥𝗔𝗗𝗢𝗡 𝗧𝗘 𝗩𝗜𝗢𝗟𝗔, 𝗠𝗨𝗖𝗛𝗢 𝗢𝗝𝗢!!!`
+				teks = `¡HOLA NEFASTOO! @${num.split('@')[0]} ¿CÓMO ESTÁS?😃\n\n『Bienvenid@ al mejor grupooo llamado *${mdata.subject}*』\n\n⌿𐄬Presentarse con Foto, Nombre, Edad Y Pais\n\n_⌿𐄬Evita hacer pendejadas y cumple las reglas, ok?_\n\n⌿𐄬𝗡𝗢 𝗩𝗘𝗡𝗚𝗔𝗦 𝗛𝗔𝗖𝗘𝗥 𝗕𝗔𝗥𝗗𝗢 𝗤𝗨𝗘 𝘿𝙧𝙖𝙜𝙤𝙣 𝗧𝗘 𝗩𝗜𝗢𝗟𝗔, 𝗠𝗨𝗖𝗛𝗢 𝗢𝗝𝗢!!!`
                           client.sendMessage(mdata.id, teks, MessageType.text, { contextInfo: {"mentionedJid": [num]}})
 			} else if (anu.action == 'remove') {
 				num = anu.participants[0]
