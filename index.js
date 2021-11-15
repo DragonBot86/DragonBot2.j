@@ -1453,7 +1453,7 @@ var reg = body.slice(8)
 var nombre = reg.split("|")[0];
 user.push(sender)
 fs.writeFileSync('./database/json/user.json', JSON.stringify(user))
-client.sendMessage(from, `\`\`\`REGISTRADO ✅\`\`\`\n\n\`\`\`DNI: ZORRA\`\`\`\n\n\`\`\`Hora MX: ${time}\`\`\`\n\n\`\`\`Fecha: ${date}\`\`\`\n\n\`\`\`[Usuario]: ${nombre}\`\`\`\n\`\`\`[Número]: wa.me/${sender.split("@")[0]}\`\`\`\n\n\`\`\`Para usar el bot\`\`\`\n\`\`\`Por favor\`\`\`\n\`\`\`enviar ${prefix}menu\`\`\`\n\`\`\`\nTotal de usuários: ${user.length}\`\`\``, text, {quoted: mek})
+client.sendMessage(from, `\`\`\`REGISTRADO ✅\`\`\`\n\n\`\`\`DNI: ZORRA DE DRAGÓN\`\`\`\n\n\`\`\`Hora MX: ${time}\`\`\`\n\n\`\`\`Fecha: ${date}\`\`\`\n\n\`\`\`[Usuario]: ${nombre}\`\`\`\n\`\`\`[Número]: wa.me/${sender.split("@")[0]}\`\`\`\n\n\`\`\`Para usar el bot\`\`\`\n\`\`\`Por favor\`\`\`\n\`\`\`enviar ${prefix}menu\`\`\`\n\`\`\`\nTotal de usuários: ${user.length}\`\`\``, text, {quoted: mek})
 break
                                 
 //FIN DE REGISTRO  
@@ -1720,15 +1720,15 @@ break
                 default:
                 
 		if (budy.includes(`Bot`)) {
-                  reply(`Que paso put@`)
+                  reply(`Que verga quieres?!`)
                   }
 		
 		if (budy.includes(`bot`)) {
-                  reply(`Que paso put@`)
+                  reply(`Que verga quieres?!`)
                   }
 					
 		if (budy.includes(`gracias`)) {
-                  reply(`Cual gracias? encuerate`)
+                  reply(`De nada puta`)
                   }			
 					
 	        if (budy.includes(`Todo bien`)) {
@@ -1744,7 +1744,7 @@ break
                   }
 
 		if (budy.includes(`Gracias`)) {
-                  reply(`Cual gracias? encuerate`)
+                  reply(`De nada puta`)
                   }
 
 		if (budy.includes(`Bien gracias y tu?`)) {
