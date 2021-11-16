@@ -1720,7 +1720,7 @@ break
                 default:
                 
 		if (budy.includes(`Bot`)) {
-                  reply(`Que verga quieres?!`)
+                  reply(`En qué te puedo ayudar amo?`)
                   }
 		
 		if (budy.includes(`bot`)) {
@@ -1755,8 +1755,8 @@ break
                   reply(`opaaaaa`)
                   }
                  
-		if (budy.includes(`Fua`)) {
-                  reply(`Fua que wey`)
+		if (budy.includes(`Grupo`)) {
+                  reply(`Este grupo es para hacer amigos, ok?, Nada de ligar sapos`)
                   }
 	
 					
