@@ -1731,8 +1731,8 @@ break
                   reply(`De nada puta`)
                   }			
 					
-	        if (budy.includes(`Presentense`)) {
-                  reply(`presentarse con: Foto, Nombre, Edad, país, sino te presentas es ban`)
+	        if (budy.includes(`Presentarse`)) {
+                  reply(`si, presentarse con: Foto, Nombre, Edad, país, sino te presentas es ban`)
                   }
 
 		if (budy.includes(`Buenos dias`)) {
