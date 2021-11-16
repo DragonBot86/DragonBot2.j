@@ -327,7 +327,7 @@ async function starts() {
 					insta: 'Calmao 😎\n\n*Estoy descargando tu post 🔄*\n\nAguarde un momento, por favor\n\n_*by Dragon*_',
 					musica: 'Calmao pa estoy bucando tu canción 😎\n\n*Recuerda colocar bien el nombre de la cancion o el link del video de youtube*\n\n*Si el comando !play no funciona utiliza el comando !play2*\n\nSi no envio tu musica checa que version tienes del bot con !version\n\n_*by Dragon*_',
 					musica2: 'Calmao pa estoy bucando tu canción 😎\n\n*Recuerda colocar bien el nombre de la cancion o el link del video de youtube*\n\n*Si el comando !play2 no funciona utiliza el comando !play*\n\nSi no envio tu musica checa que version tienes del bot con !version\n\n_*by Dragon*_',
-					daftarB: `「NO ESTAS REGISTRADO🧐」\n\nMI LOCO NO ESTAS PERMITIDO\n\nPara poder usarme escribe el siguiente comando\n\nComando: ${prefix}daftar Nombre\nEjemplo: ${prefix}daftar Dragón`,
+					daftarB: `「NO ESTAS REGISTRADO🧐」\n\nMI LOCO, NO ESTAS PERMITIDO!\n\nPara poder usarme escribe el siguiente comando\n\nComando: ${prefix}daftar Nombre\nEjemplo: ${prefix}daftar Dragón`,
 				}
 			}
     			const apakah = ['Si','No']
