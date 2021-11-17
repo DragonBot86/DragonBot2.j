@@ -1723,12 +1723,12 @@ break
                   reply(`En qué te puedo ayudar amo?`)
                   }
 		
-		if (budy.includes(`Dragon`)) {
-                  reply(`Que quieres con mi Jefe?🧐`)
+		if (budy.includes(`Creador`)) {
+                  reply(`El creador es el Jefe Dragón🧐`)
                   }
 					
 		if (budy.includes(`gracias`)) {
-                  reply(`De nada puta`)
+                  reply(`De nada mi puta`)
                   }			
 					
 	        if (budy.includes(`presentarse`)) {
