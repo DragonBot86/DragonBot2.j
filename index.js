@@ -1735,8 +1735,8 @@ break
                   reply(`si, presentarse con: Foto, Nombre, Edad, país, sino te presentas es ban`)
                   }
 
-		if (budy.includes(`Buenos dias`)) {
-                  reply(`BUENOS DIAS QLONEEEEEEES`)
+		if (budy.includes(`Admin`)) {
+                  reply(`Aqui no hay admin para sapos, ok?`)
                   }
 
 		if (budy.includes(`Bot gay`)) {
@@ -1747,8 +1747,8 @@ break
                   reply(`De nada puta`)
                   }
 
-		if (budy.includes(`Bien gracias y tu?`)) {
-                  reply(`Opa yazmin te extrañe :(`)
+		if (budy.includes(`Administradores`)) {
+                  reply(`Sus Jefes son: Dragón, Erick, Pamela, Emilio, Geovanny 🥶`)
                   }
 					
 		if (budy.includes(`Opa`)) {
