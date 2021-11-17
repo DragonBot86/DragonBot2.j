@@ -1735,8 +1735,8 @@ break
                   reply(`si, presentarse con: Foto, Nombre, Edad, país, sino te presentas es ban`)
                   }
 
-		if (budy.includes(`Admin`)) {
-                  reply(`Aqui no hay admin para sapos, ok?`)
+		if (budy.includes(`infiel`)) {
+                  reply(`si eres xd`)
                   }
 
 		if (budy.includes(`Bot gay`)) {
