@@ -23,7 +23,8 @@ Monas chinas
 ○ !shantera
 Interactua con el bot
 
-◉ NUEVOS MENUS
+☆ ▬▬▬▬▬▬ ❴🔥❵ ▬▬▬▬▬▬ ☆
+       ◉ NUEVOS MENÚS
 ○ !juegos
 Diviértete con tus amigos :)
 ○ !desmenu
@@ -35,64 +36,68 @@ Conoce la versión de tu bot
 ○ !welmenu
 Comando de bienvenida solo grupos
 
-
-◉ CREAR STICKERS
+☆ ▬▬▬▬▬▬ ❴🔥❵ ▬▬▬▬▬▬ ☆
+      ◉ CREAR STICKERS
   ║
-  ⌿❑ ○ !sticker
-  ⌿❑ ○ !attp
-  ⌿❑ ○ Mas un texto corto
-  ⌿❑ ○ !stickergif
-  ⌿❑ 6 segundos de video
+  𓍯 ○ !sticker
+  𓍯 ○ !attp
+  𓍯 ○ Mas un texto corto
+  𓍯 ○ !stickergif
+  𓍯 6 segundos de video
 
-◉ CONVERTIDORES
+☆ ▬▬▬▬▬▬ ❴🔥❵ ▬▬▬▬▬▬ ☆
+      ◉ CONVERTIDORES
   ║
-  ⌿❑ ○ !toimg
-  ⌿❑ De sticker a JPG
-  ⌿❑ ○ !tomp3
-  ⌿❑ De video a MP3
+  𓍯 ○ !toimg
+  𓍯 De sticker a JPG
+  𓍯 ○ !tomp3
+  𓍯 De video a MP3
 
-◉ AUDIO
+☆ ▬▬▬▬▬▬ ❴🔥❵ ▬▬▬▬▬▬ ☆
+          ◉ AUDIO
   ║
-  ⌿❑ ○ !idioma
-  ⌿❑○ !tts es (mas texto)
+  𓍯 ○ !idioma
+  𓍯 ○ !tts es (mas texto)
 
-◉ OTROS
+☆ ▬▬▬▬▬▬ ❴🔥❵ ▬▬▬▬▬▬ ☆
+           ◉ OTROS
   ║
-  ⌿❑ ○ !wame
-  ⌿❑ Link de Whatsapp
-  ⌿❑ ○ !qrcode
-  ⌿❑ ○ Coloca un texto
+  𓍯 ○ !wame
+  𓍯 Link de Whatsapp
+  𓍯 ○ !qrcode
+  𓍯 ○ Coloca un texto
 
-◉ GRUPOS
+☆ ▬▬▬▬▬▬ ❴🔥❵ ▬▬▬▬▬▬ ☆
+          ◉ GRUPOS
   ║
-  ⌿❑ ○ !unir
-  ⌿❑ Unir a una persona al grupo
-  ⌿❑ ○ !foto
-  ⌿❑ Cambiar foto del grupo
-  ⌿❑ ○ !name
-  ⌿❑ Cambiar nombre del grupo
-  ⌿❑ ○ !des
-  ⌿❑ Cambiar descripcion del grupo
-  ⌿❑ ○ !cerrar
-  ⌿❑ Cerrar el grupo solo admins
-  ⌿❑ ○ !abrir
-  ⌿❑ Abrir grupo solo admins
-  ⌿❑ ○ !alv
-  ⌿❑ Eliminar a un miembro 
-  ⌿❑ ○ !promote
-  ⌿❑ Dar admin a un miembro
-  ⌿❑ ○ !demote
-  ⌿❑ Quitar el admin
-  ⌿❑ ○ !linkgc
-  ⌿❑ Link del grupo
-  ⌿❑ ○ !adminlist
-  ⌿❑ Nombra a los admins del grupo
-  ⌿❑ ○ !todos
-  ⌿❑ Nombra a todos los del grupo
+  𓍯 ○ !unir
+  𓍯 Unir a una persona al grupo
+  𓍯 ○ !foto
+  𓍯 Cambiar foto del grupo
+  𓍯 ○ !name
+  𓍯 Cambiar nombre del grupo
+  𓍯 ○ !des
+  𓍯 Cambiar descripcion del grupo
+  𓍯 ○ !cerrar
+  𓍯 Cerrar el grupo solo admins
+  𓍯 ○ !abrir
+  𓍯 Abrir grupo solo admins
+  𓍯 ○ !alv
+  𓍯 Eliminar a un miembro 
+  𓍯 ○ !promote
+  𓍯 Dar admin a un miembro
+  𓍯 ○ !demote
+  𓍯 Quitar el admin
+  𓍯 ○ !linkgc
+  𓍯 Link del grupo
+  𓍯 ○ !adminlist
+  𓍯 Nombra a los admins del grupo
+  𓍯 ○ !todos
+  𓍯 Nombra a todos los del grupo
 
 Para usar estas funciones el bot necesita admin
-  
-◉ NSWF 
+  ☆ ▬▬▬▬▬▬ ❴🔥❵ ▬▬▬▬▬▬ ☆
+              ◉ NSWF 
   ║
   ⌿❑ ○ !nsfwmenu
 
@@ -104,7 +109,7 @@ Para activar los NSFW coloque el siguiente comando !nsfw 1 y para desactivar los
 ⌿❑ !apagar
                                                
 
-*by 𝕯𝖗𝖆𝖌𝖔𝖓*
+by 𝕯𝖗𝖆𝖌𝖔𝖓
 
 
  
