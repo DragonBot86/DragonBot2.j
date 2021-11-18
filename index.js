@@ -1723,8 +1723,8 @@ break
                   reply(`En qué te puedo ayudar amo?`)
                   }
 		
-		if (budy.includes(`Creador`)) {
-                  reply(`El creador es el Jefe Dragón🧐`)
+		if (budy.includes(`hacker`)) {
+                  reply(`puro niño meado que se cree hacker jajaja`)
                   }
 					
 		if (budy.includes(`gracias`)) {
@@ -1736,7 +1736,7 @@ break
                   }
 
 		if (budy.includes(`kuaker`)) {
-                  reply(`Aqui no querés kuaker malos y mamones, sapo perro`)
+                  reply(`Aqui no querés kuaker malos y mamones`)
                   }
 
 		if (budy.includes(`Bot gay`)) {
