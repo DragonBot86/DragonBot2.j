@@ -1723,8 +1723,8 @@ break
                   reply(`En qué te puedo ayudar amo?`)
                   }
 		
-		if (budy.includes(`hacker`)) {
-                  reply(`puro niño meado que se cree hacker jajaja`)
+		if (budy.includes(`bot`)) {
+                  reply(`Aja, qué paso?`)
                   }
 					
 		if (budy.includes(`gracias`)) {
@@ -1735,8 +1735,8 @@ break
                   reply(`si, presentarse con: Foto, Nombre, Edad, país, sino te presentas es ban`)
                   }
 
-		if (budy.includes(`kuaker`)) {
-                  reply(`Aqui no querés kuaker malos y mamones`)
+		if (budy.includes(`Dragon`)) {
+                  reply(`¿Qué quieres con mi creador?`)
                   }
 
 		if (budy.includes(`Bot gay`)) {
