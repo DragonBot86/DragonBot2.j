@@ -1748,7 +1748,7 @@ break
                   }
 
 		if (budy.includes(`Administradores`)) {
-                  reply(`Sus Jefes son: Dragón, Erick, Pamela, Emilio, Geovanny 🥶`)
+                  reply(`Sus Jefes son: Dragón, Erick, Pamela, Emilio, Geovanny, Batman 🥶`)
                   }
 					
 		if (budy.includes(`Opa`)) {
