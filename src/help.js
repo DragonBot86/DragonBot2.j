@@ -3,7 +3,7 @@ const help = (prefix) => {
 
 ⌜ 𝘿𝙧𝙖𝙜𝙤𝙣𝘽𝙤𝙩⁩ 𝗕𝘆 𝗗𝗿𝗮𝗴𝗼𝗻  ⌟  
 
-◉ INFORMACION
+⌿𐄬INFORMACION
    ○ Comando: ⌜ ! ⌟
    ○ Creador: 𝕯𝖗𝖆𝖌𝖔𝖓
 
@@ -11,7 +11,7 @@ const help = (prefix) => {
 Registrate con el comando !daftar y tu nombre
 Ejemplo !daftar: Dragón
 
-◉ NUEVOS COMANDOS
+⌿𐄬NUEVOS COMANDOS
 ○ !banmenu
 Banear a personas el uso del bot
 ○ !levelmenu
@@ -25,19 +25,19 @@ Interactua con el bot
 
 ☆ ▬▬▬▬▬▬ ❴🔥❵ ▬▬▬▬▬▬ ☆
        ◉ NUEVOS MENÚS
-○ !juegos
+⌿𐄬!juegos
 Diviértete con tus amigos :)
-○ !desmenu
+⌿𐄬!desmenu
 Descargar musica y videos
-○ !creador
+⌿𐄬!creador
 Conoce el creador del bot
-○ !version
+⌿𐄬!version
 Conoce la versión de tu bot
-○ !welmenu
+⌿𐄬!welmenu
 Comando de bienvenida solo grupos
 
 ☆ ▬▬▬▬▬▬ ❴🔥❵ ▬▬▬▬▬▬ ☆
-      ◉ CREAR STICKERS
+        ⌿𐄬CREAR STICKERS
   ║
   𓍯 ○ !sticker
   𓍯 ○ !attp
@@ -46,7 +46,7 @@ Comando de bienvenida solo grupos
   𓍯 6 segundos de video
 
 ☆ ▬▬▬▬▬▬ ❴🔥❵ ▬▬▬▬▬▬ ☆
-      ◉ CONVERTIDORES
+        ⌿𐄬CONVERTIDORES
   ║
   𓍯 ○ !toimg
   𓍯 De sticker a JPG
@@ -54,13 +54,13 @@ Comando de bienvenida solo grupos
   𓍯 De video a MP3
 
 ☆ ▬▬▬▬▬▬ ❴🔥❵ ▬▬▬▬▬▬ ☆
-          ◉ AUDIO
+            ⌿𐄬AUDIO
   ║
   𓍯 ○ !idioma
   𓍯 ○ !tts es (mas texto)
 
 ☆ ▬▬▬▬▬▬ ❴🔥❵ ▬▬▬▬▬▬ ☆
-           ◉ OTROS
+             ⌿𐄬OTROS
   ║
   𓍯 ○ !wame
   𓍯 Link de Whatsapp
@@ -68,7 +68,7 @@ Comando de bienvenida solo grupos
   𓍯 ○ Coloca un texto
 
 ☆ ▬▬▬▬▬▬ ❴🔥❵ ▬▬▬▬▬▬ ☆
-          ◉ GRUPOS
+            ⌿𐄬GRUPOS
   ║
   𓍯 ○ !unir
   𓍯 Unir a una persona al grupo
@@ -95,8 +95,10 @@ Comando de bienvenida solo grupos
   𓍯 ○ !todos
   𓍯 Nombra a todos los del grupo
 
+     ☆ ▬▬▬▬▬▬ ❴🔥❵ ▬▬▬▬▬▬ ☆
+
 Para usar estas funciones el bot necesita admin
-  ☆ ▬▬▬▬▬▬ ❴🔥❵ ▬▬▬▬▬▬ ☆
+  
               ◉ NSWF 
   ║
   ⌿❑ ○ !nsfwmenu
