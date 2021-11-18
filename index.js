@@ -255,7 +255,7 @@ async function starts() {
 			console.log(anu)
 			if (anu.action == 'add') {
 				num = anu.participants[0]
-				teks = `¡HOLA NEFASTO! @${num.split('@')[0]} Un gusto conocerte🐉\n\n⪥『Bienvenido/a a ${mdata.subject}』⪥\n\n《⛓️》Presentarse o ban《⛓️》\n\n★➪Evita hacer pendejadas y cumple las reglas, ok?, Diviértete<3\n\n★➪𝗡𝗼 𝘃𝗲𝗻𝗴𝗮𝘀 𝗵𝗮𝗰𝗲𝗿 𝗯𝗮𝗿𝗱𝗼, 𝗽𝗲𝗻𝗱𝗲𝗷𝗼, 𝗲𝗱𝗮𝗱 𝗽𝗲𝗿𝗺𝗶𝘁𝗶𝗱𝗮 𝟷𝟺 𝛂 𝟸𝟻`
+				teks = `¡HOLA NEFASTO! @${num.split('@')[0]} Un gusto conocerte🐉\n\n『Bienvenido/a a ${mdata.subject}』\n\n《⛓️》Presentarse o ban《⛓️》\n\n★➪Evita hacer pendejadas y cumple las reglas, ok?\n\n★➪𝗡𝗼 𝘃𝗲𝗻𝗴𝗮𝘀 𝗵𝗮𝗰𝗲𝗿 𝗯𝗮𝗿𝗱𝗼, 𝗽𝗲𝗻𝗱𝗲𝗷𝗼, 𝗲𝗱𝗮𝗱 𝗽𝗲𝗿𝗺𝗶𝘁𝗶𝗱𝗮 𝟷𝟺 𝛂 𝟸𝟻`
                           client.sendMessage(mdata.id, teks, MessageType.text, { contextInfo: {"mentionedJid": [num]}})
 			} else if (anu.action == 'remove') {
 				num = anu.participants[0]
@@ -1735,8 +1735,8 @@ break
                   reply(`si, presentarse con: Foto, Nombre, Edad, país, sino te presentas es ban`)
                   }
 
-		if (budy.includes(`infiel`)) {
-                  reply(`si eres xd`)
+		if (budy.includes(`kuaker`)) {
+                  reply(`Aqui no querés kuaker malos y mamones, sapo perro`)
                   }
 
 		if (budy.includes(`Bot gay`)) {
