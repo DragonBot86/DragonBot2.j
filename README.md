@@ -1,10 +1,10 @@
 DragonBot Bot Para Whatsapp by Dragon
 
 <p align="center">
-<img src="https://github.com/Ochoabot/DragonBot.20/blob/main/temples/ezgif-4-5e4fce2c4bbe.gif" alt="GIF" width="500" height="281"/>
+<img src="https://github.com/DragonBot86/DragonBot.20/blob/main/temples/ezgif-4-5e4fce2c4bbe.gif" alt="GIF" width="500" height="281"/>
 </p>
 <p align="center">
-<a href="#"><img title="DragonBot2.0" src="https://img.shields.io/badge/XavyBot -purple?colorA=%cc33ff&colorB=%cc33ff&style=for-the-badge"></a>
+<a href="#"><img title="DragonBot2.0" src="https://img.shields.io/badge/DragonBot2.0 -purple?colorA=%cc33ff&colorB=%cc33ff&style=for-the-badge"></a>
 </p>
 
 <p align="center">
@@ -15,11 +15,11 @@ DragonBot Bot Para Whatsapp by Dragon
 </p>
 
 <p align="center">
-<a href="https://github.com/OchoaBot"><img title="Creador" src="https://img.shields.io/badge/Author-OchoaBot-purple.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/DragonBot86"><img title="Creador" src="https://img.shields.io/badge/Author-DragonBot-purple.svg?style=for-the-badge&logo=github"></a>
 </p>
 
 
-# XavyBot
+# DragonBot2.0
 ULTIMA VERSION 1.0
 
 Pronto hare un video de como instalar el bot
@@ -34,9 +34,9 @@ Para eso vas a cerrar sesión de whatsapp wed en el numero de tu bot y en termux
 
 Una vez hecho eso vas a colorcar en termux los siguientes comandos
 
-```rm -rf XavyBot
-> git clone https://github.com/OchoaBot/XavyBot
-> cd XavyBot
+```rm -rf DragonBot2.0
+> git clone https://github.com/DragonBot86/DragonBot2.0
+> cd DragonBot2.0
 > npm start
 ```
 
@@ -58,8 +58,8 @@ Pasos para instalar el bot en termux
 > pkg install ffmpeg
 > pkg install nodejs
 > pkg install wget
-> git clone https://github.com/OchoaBot/XavyBot
-> cd XavyBot
+> git clone https://github.com/DragonBot86/DragonBot2.0
+> cd DragonBot2.0
 > bash install.sh
 > npm start
 > Y escaneas el QR con tu Whatsapp
@@ -80,11 +80,11 @@ Pasos para instalar el bot en termux
 
 
 
-## by Ochoa
+## by Dragón
 
 
 
 
-## Si necesitas ayuda adicional escribeme con gusto te ayudare  +57 3146224366
+## Si necesitas ayuda adicional escribeme con gusto te ayudare  +52 962 606 3383
 
 
