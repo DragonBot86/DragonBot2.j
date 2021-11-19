@@ -730,6 +730,17 @@ hasil = `${rate}Usted es ${random}% gay\n\n${ga}`
 reply(hasil)
 break
 
+case 'lesbiana':
+if (!isUser) return reply(mess.only.daftarB)
+rate = body.slice(5)
+client.updatePresence(from, Presence.composing) 
+random = `${Math.floor(Math.random() * 100)}`
+lesbiana = random
+if (lesbiana < 20 ) {le = 'Usted es hetero mija😹'} else if (lesbiana == 21 ) {lesbiana = 'Media lesbiana🧐'} else if (le == 23 ) {lesbiana = 'Media lesbiana 🧐'} else if (lesbiana == 24 ) {le = 'Media lesbiana 🧐'} else if (lesbiana == 25 ) {le = 'Media lesbiana 🧐'} else if (lesbiana == 26 ) {le = 'Media lesbiana🧐'} else if (lesbiana == 27 ) {le = 'Media lesbiana🧐'} else if (lesbiana == 28 ) {le = 'Media lesbiana🧐'} else if (lesbiana == 29 ) {le = 'Media lesbiana🧐'} else if (le == 30 ) {lesbiana = 'Media lesbiana 🧐'} else if (lesbiana == 31 ) {le = 'Tengo mis dudas 😳'} else if (lesbiana == 32 ) {le = 'Tengo mi dudas 😑'} else if (lesbiana == 33 ) {le = 'Tengo mi dudas 😑'} else if (lesbiana == 34 ) {le = 'Tengo mi dudas 😑'} else if (lesbiana == 35 ) {le = 'Tengo mi dudas 😑'} else if (lesbiana == 36 ) {le = 'Tengo mi dudas 😑'} else if (lesbiana == 37 ) {le = 'Tengo mi dudas 😑'} else if (lesbiana == 38 ) {le = 'TTengo mi dudas 😑'} else if (lesbiana == 39 ) {le = 'Tengo mi dudas 😑'} else if (lesbiana == 40 ) {le = 'Tengo mi dudas 😑'} else if (lesbiana == 41 ) {le = 'Tengo razon? 😏'} else if (lesbiana == 42 ) {le = 'Tengo razon? 😏'} else if (lesbiana == 43 ) {le = 'Tengo razon? 😏'} else if (lesbiana == 44 ) {le = 'Tengo razon? 😏'} else if (lesbiana == 45 ) {le = 'Tengo razon? 😏'} else if (lesbiana == 67 ) {ga = 'Tengo razon? 😏'} else if (lesbiana == 47 ) {le = 'Tengo razon? 😏'} else if (lesbiana == 48 ) {le = 'Tengo razon? 😏'} else if (lesbiana == 49 ) {le = 'Tengo razon? 😏'} else if (lesbiana == 50 ) {le = 'Eres o no? 🧐'} else if (lesbiana > 51) {ga = 'Usted es una lesbiana 🥶 🥸'}
+hasil = `${rate}Usted es ${random}% lesbiana\n\n${ga}`
+reply(hasil)
+break
+
 case 'cuties':
 if (!isUser) return reply(mess.only.daftarB)
 rate = body.slice(9)
