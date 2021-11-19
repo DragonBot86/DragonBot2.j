@@ -254,6 +254,10 @@ async function starts() {
 			const mdata = await client.groupMetadata(anu.jid)
 			console.log(anu)
 			if (anu.action == 'add') {
+try {
+					ppimg = await Fg.getProfilePicture(`${anu.participants[0].split('@')[0]}@c.us`)
+				} catch {
+					ppimg = 'http://amanecemetropolis.net/wp-content/uploads/2015/07/finn-and-jake-wallpaper.jpg'
 				num = anu.participants[0]
 				teks = `¡HOLA NEFASTO! @${num.split('@')[0]} Un gusto🐉\n\n『Bienvenido/a a ${mdata.subject}』\n\n《⛓️》Al entrar presentarse con:
 𝙁𝙤𝙩𝙤:
