@@ -255,7 +255,11 @@ async function starts() {
 			console.log(anu)
 			if (anu.action == 'add') {
 				num = anu.participants[0]
-				teks = `¡HOLA NEFASTO! @${num.split('@')[0]} Un gusto conocerte🐉\n\n『Bienvenido/a a ${mdata.subject}』\n\n《⛓️》Presentarse o ban《⛓️》\n\n★➪Evita hacer pendejadas y cumple las reglas, ok?\n\n┈┈┏━╮╭━┓┈╭━━━━━━╮
+				teks = `¡HOLA NEFASTO! @${num.split('@')[0]} Un gusto conocerte🐉\n\n『Bienvenido/a a ${mdata.subject}』\n\n《⛓️》Presentarse con:
+Foto
+Nombre
+Edad 
+País《⛓️》\n\n★➪Evita hacer pendejadas y cumple las reglas, ok?\n\n┈┈┏━╮╭━┓┈╭━━━━━━╮
 ┈┈┃┏┗┛┓┃╭┫ⓞⓘⓝⓚ┃
 ┈┈╰┓▋▋┏╯╯╰━━━━━━╯
 ┈╭━┻╮╲┗━━━━╮╭╮┈
