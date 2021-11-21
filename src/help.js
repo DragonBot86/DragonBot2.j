@@ -7,8 +7,6 @@ const help = (prefix) => {
    ○ Comando: ⌜ ! ⌟
    ○ Creador: 𝕯𝖗𝖆𝖌𝖔𝖓
 
-Únete para hacer desmadre: https://chat.whatsapp.com/DP3VqwGczMm7vkAxtzZkQH
-
 ◉ PARA USAR EL BOT
 Registrate con el comando !daftar y tu nombre
 Ejemplo !daftar: Dragón
