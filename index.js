@@ -256,17 +256,11 @@ async function starts() {
 			if (anu.action == 'add') {
 
 				num = anu.participants[0]
-				teks = `¡HOLA NEFASTO! @${num.split('@')[0]} Un gusto🐉\n\n『Bienvenido/a a ${mdata.subject}』\n\n《⛓️》Al entrar presentarse con:
+				teks = `¡HOLA NEFASTO! @${num.split('@')[0]}🐉\n\n『Bienvenido/a a ${mdata.subject}』\n\n《⛓️》Al entrar presentarse con:
 𝙁𝙤𝙩𝙤:
 𝙉𝙤𝙢𝙗𝙧𝙚:
 𝙀𝙙𝙖𝙙:
-𝙋𝙖𝙞𝙨:《⛓️》\n\n┉┅━ Recuerda leer las reglas, ok?, Edad permitida 14 a 25 años\n\n.  ╭┐┌╮☆°．·
-╭┘└┘└╮∴°☆°
-└┐．．┌———╮∴°
-╭┴———┤          ├╮
-│ｏ　ｏ│　  　│●°
-╰┬———╯          │ ∴°·
- ☆\ˍˍ\_ˍ|—|ˍˍ/ˍˍ/∴☆.`
+𝙋𝙖𝙞𝙨:《⛓️》\n\n┉┅━ Recuerda leer las reglas, ok?, Edad permitida 14 a 25 años°☆°\n\n Evita hacer pendejadas·∴°☆°`
                           client.sendMessage(mdata.id, teks, MessageType.text, { contextInfo: {"mentionedJid": [num]}})
 			} else if (anu.action == 'remove') {
 				num = anu.participants[0]
