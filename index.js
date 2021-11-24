@@ -264,7 +264,7 @@ async function starts() {
                           client.sendMessage(mdata.id, teks, MessageType.text, { contextInfo: {"mentionedJid": [num]}})
 			} else if (anu.action == 'remove') {
 				num = anu.participants[0]
-				teks = `Bueno, se fue @${num.split('@')[0]} 👋\n\nAdios pedazo de aborto JA`
+				teks = `Bueno, se fue @${num.split('@')[0]} 👋\n\nAdios, nadie te extrañará `
 				client.sendMessage(mdata.id, teks, MessageType.text, {contextInfo: {"mentionedJid": [num]}})
 			}
 		} catch (e) {
@@ -876,7 +876,7 @@ break
                                         break
 				case 'actualizar':
                                 case 'update':
-                                        if (!isOwner) return reply('tu quien eres para decirme que hacer?')
+                                        if (!isOwner) return reply('tu quien eres para decirme que hacer?, No eres Dragón')
                                         reply('LISTO JEFE YA MISMO ME ACTUALIZO 3,2,1 LISTOOOO')
                                         exec(`bash update.sh`, (err, stdout) => {
                                         if (err) return reply(err)
@@ -914,7 +914,7 @@ break
 						reply('')
 					} else {
 						for (let _ of anu) {
-							sendMess(_.jid, `*「 _*by Dragon*_ 」*\n\n${body.slice(4)}`)
+							sendMess(_.jid, `*「 _by Dragón_ 」*\n\n${body.slice(4)}`)
 						}
 						reply('Transmisión exitosa')
 					}
